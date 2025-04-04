@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Kushagra Jain</h1>
 <h3 align="center">Shipping ideas from localhost to the universe.</h3>
-![Coding](https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif)
+
+<p align="right">
+  <img src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" alt="Coding" />
+</p>
 
 
 - 🌱 I’m currently learning **everything I can.**
