@@ -15,7 +15,7 @@
 
 </td>
     <td>
-      <img src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" alt="Coding" width="250"/>
+      <img src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" alt="Coding" width="500"/>
     </td>
   </tr>
 </table>
