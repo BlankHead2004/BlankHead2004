@@ -1,5 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Kushagra Jain</h1>
 <h3 align="center">Shipping ideas from localhost to the universe.</h3>
+<p align="right">
+  <img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://wifflegif.com/tags/4022-coding-gifs?page=3)" alt="Coding" />
+</p>
+
 
 - 🌱 I’m currently learning **everything I can.**
 
