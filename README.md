@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋, I'm Kushagra Jain</h1>
-<h3 align="center">Shipping ideas from localhost to the universe.</h3>
+<h1 align="left"> Hi there 👋, I'm Kushagra Jain</h1>
+<h3 align="left">Shipping ideas from localhost to the universe.</h3>
 
 <table>
   <tr>
