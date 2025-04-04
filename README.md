@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center"> I'm Kushagra Jain</h1>
+<h1 align="center"> Hi there 👋, I'm Kushagra Jain</h1>
 <h3 align="center">Shipping ideas from localhost to the universe.</h3>
 
 - 🌱 I’m currently learning **everything I can.**
