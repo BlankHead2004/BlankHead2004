@@ -9,7 +9,7 @@
   <li>🌱 I’m currently learning <strong>everything I can.</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/BlankHead2004/">My GitHub</a></li>
   <li>💬 Ask me about <strong>Machine Learning, Gen-AI, Deployment</strong></li>
-  <li>📫 How to reach me: <strong><a href="Kushagrajain.feb@gmail.com">My Email.</a></strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:Kushagrajain.feb@gmail.com">My Email.</a></strong></li>
   <li>⚡ Fun fact: <strong>Yes I love anime.</strong></li>
 </ul>
 
