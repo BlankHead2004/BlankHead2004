@@ -1,20 +1,25 @@
 <h1 align="center"> Hi there 👋, I'm Kushagra Jain</h1>
 <h3 align="center">Shipping ideas from localhost to the universe.</h3>
 
-<p align="right">
-  <img src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" alt="Coding" />
-</p>
+<table>
+  <tr>
+    <td>
 
+<ul>
+  <li>🌱 I’m currently learning <strong>everything I can.</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/BlankHead2004/">My GitHub</a></li>
+  <li>💬 Ask me about <strong>Machine Learning, Gen-AI, Deployment</strong></li>
+  <li>📫 How to reach me: <strong>Kushagrajain.feb@gmail.com</strong></li>
+  <li>⚡ Fun fact: <strong>Yes I love anime.</strong></li>
+</ul>
 
-- 🌱 I’m currently learning **everything I can.**
+</td>
+    <td>
+      <img src="https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif" alt="Coding" width="250"/>
+    </td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [https://github.com/BlankHead2004/](https://github.com/BlankHead2004/)
-
-- 💬 Ask me about **Machine Learning, Gen-AI, Deployment**
-
-- 📫 How to reach me **Kushagrajain.feb@gmail.com**
-
-- ⚡ Fun fact **Yes I love anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
