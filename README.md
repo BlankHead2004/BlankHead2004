@@ -65,16 +65,6 @@ class Kushagra:
       <b>2nd Place</b><br/>
       <sub>Confluence 2025<br/>PES University · Feb 2025</sub>
     </td>
-    <td align="center" width="25%">
-      <h1>📈</h1>
-      <b>70% ↑ / 95% ↓</b><br/>
-      <sub>Accuracy gained @ Samsung<br/>Manual effort cut @ Verint</sub>
-    </td>
-    <td align="center" width="25%">
-      <h1>🎓</h1>
-      <b>8.85 GPA</b><br/>
-      <sub>B.E. Computer Science<br/>RVCE · 2022 – 2026</sub>
-    </td>
   </tr>
 </table>
 
