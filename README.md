@@ -14,7 +14,6 @@
   <a href="https://kushagra-jain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%80%20Enter%20the%20Lab-Portfolio-b6ed57?style=for-the-badge&labelColor=0b1d12" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/kushagrajain2004"><img src="https://img.shields.io/badge/LinkedIn-kushagrajain2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1d12" alt="LinkedIn"/></a>
   <a href="mailto:Kushagrajain.feb@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1d12" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=BlankHead2004&style=for-the-badge&color=b6ed57&label=VISITORS%20THROUGH%20THE%20PORTAL" alt="Profile views"/>
 </p>
 
 ---
